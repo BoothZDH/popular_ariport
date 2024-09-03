@@ -1,6 +1,6 @@
 # popular_ariport
 ## 个人在用的机场
-<a hert='https://fbinv02.fbaff.cc/auth/register?code=qdRc6le8'>flyingbird飞鸟机场最新官网地址</a>
+[flyingbird飞鸟机场最新官网地址:](https://fbinv02.fbaff.cc/auth/register?code=qdRc6le8)  
 ## 简介
 
 飞鸟机场是一个全员海外落地的ss机场，全专线IPLC，不限速，不限设备数量，超稳晚高峰，流媒体全解锁！
